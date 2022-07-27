@@ -1,5 +1,6 @@
 # BW-CLR-PYTHN
-# ------------IMPORTANT----------
+This a enhanced GRAY2COLOR project created by me. This project is a upgraded version of original project. This project enhance the image by Colour Correction using color grading technique and sharpness correction.
+This project also contain easy image conversion by a simple GUI system
 # A)Library required for this project
 1)CV2 <br/>
 2)TKINTER <br/>
@@ -12,7 +13,7 @@
 2)Download the colorization_release_v2.caffemodel from "http://eecs.berkeley.edu/~rich.zhang/projects/2016_colorization/files/demo_v2/colorization_release_v2.caffemodel"  <br/>
 3)Paste the download file in models\ folder in this project <br/>
 4)Run the GUI Script using any IDE <br/>
-#-------------------------------------------
+
 
 # Project Images 
 <h2>GUI SAMPLE</h2> <br/>
